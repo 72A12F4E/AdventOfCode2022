@@ -128,7 +128,7 @@ for row in trees {
 
 print(heightOutput)
 print(visibilityOutput)
-print(counter) // Part 1 solution
+print("Part 1 Solution: \(counter)")
 
 var maxViewing = 1
 for (rowIndex, row) in trees.enumerated() {
